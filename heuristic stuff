@@ -1,0 +1,4 @@
+huristic funtion:
+2 * Math.abs(current.x - end.x) + Math.abs(current.y - end.y)
+
+this huristic function will calculate an approximate distance. it is consistant and never overestimates. and simple
